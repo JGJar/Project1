@@ -1,0 +1,13 @@
+# Project Scope Statement
+
+## Project Purpose
+The purpose of this project is to create a simple personal introduction webpage while applying the project management principle of scoping. This project helps define clear goals and boundaries before starting technical work, ensuring the final website is focused and meets all requirements.
+
+## Description
+This project consists of a single-page personal website written in semantic HTML. The webpage will introduce me by name, describe my major and professional interests, outline my goals for the course or my career, list a few personal hobbies or interests, and include a link to my GitHub profile.
+
+## Desired Results
+The desired outcome is a valid HTML webpage that displays correctly in a browser and meets all assignment requirements. The website should be well-structured, easy to read, and demonstrate correct use of basic semantic HTML elements.
+
+## Exclusions
+This project will not include advanced styling, CSS frameworks, JavaScript, animations, images, or multiple pages. The focus is strictly on content structure and scope definition rather than visual design.
